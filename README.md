@@ -1,0 +1,1 @@
+Definitely gonna need to download node.js for this and express, using this tutorial: https://www.youtube.com/watch?v=FV1Ugv1Temg&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q&index=3&ab_channel=Academind from acedemind (setup in the second video in the series)
